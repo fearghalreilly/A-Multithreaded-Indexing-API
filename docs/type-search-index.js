@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ie.atu.sw","l":"CreateIndex"},{"p":"ie.atu.sw","l":"FilePhraser"},{"p":"ie.atu.sw","l":"Menu"},{"p":"ie.atu.sw","l":"RemoveDictionary"},{"p":"ie.atu.sw","l":"RemoveWords"},{"p":"ie.atu.sw","l":"Runner"}];updateSearchResults();
